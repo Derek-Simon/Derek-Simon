@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Derek-Simon
+- 👋 Hi, I’m @Derek-Simon (personal tags: 1.Target Oriented, 2.Act vigorously)
 - 👀 I’m interested in `Full Stack` Development Techniques.
 - 🌱 I’m currently learning `Big Data` related stuff.
 - 💞️ <del>I’m looking to collaborate on <del> 
