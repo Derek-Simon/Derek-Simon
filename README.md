@@ -17,10 +17,8 @@ REGRDLESS OF COSTs.
 
 ## About Series
 
-Series & Materials I've finished:
-* only postive reading & learning, I record the time of its duration.
-* every time I handle 2 things simultaneously
-* all can be found in my website: [derekactions.com](https://www.derekactions.com/)
+Series & Materials & Programs I've finished:
+* all series can be found in my website: [derekactions.com](https://www.derekactions.com/)
 
 
 Lexical Series:
@@ -41,6 +39,7 @@ Listening Training Series:
 
 
 TV/Shows Series:
+- [ ] Modern Family Season 1 (Positive)
 
 
 Music Series:
