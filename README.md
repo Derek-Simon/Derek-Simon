@@ -5,7 +5,7 @@
  
 I AM CURRENTLY BUSY ACHIEVING MY OBJECTIVES in recent 2 years. REGRDLESS OF COSTs.
 
-More Details in [Mywebsite](https://www.derekactions.com/about/).
+More Details in [my website](https://www.derekactions.com/about/).
 
 <!---
 Derek-Simon/Derek-Simon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
